@@ -1,5 +1,7 @@
 # Corley Maintenance Bundle
 
+**THIS REPO IS NOW MIGRATED TO ANOTHER MAINTAINER: https://github.com/steveWinter/CorleyMaintenanceBundle**
+
 Just an unified way to put a web application under maintenance mode using web server strategies. The maintenance
 mode will cut off all requests and it will replies with a static html file and a 503 header (Service Unavailable).
 
